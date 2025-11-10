@@ -1,0 +1,1 @@
+﻿positionForPages[31]={page:31,positions:[{word:"Письма в Никуда...",left:0.177918,top:0.628556,width:0.661744,height:0.070962}]};

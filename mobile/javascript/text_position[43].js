@@ -1,0 +1,1 @@
+﻿positionForPages[43]={page:43,positions:[{word:"Мистические истории, ",left:0.093979,top:0.380498,width:0.828638,height:0.070961},{word:"пророческие сны",left:0.207756,top:0.443998,width:0.582332,height:0.070961}]};

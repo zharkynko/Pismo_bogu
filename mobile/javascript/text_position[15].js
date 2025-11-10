@@ -1,0 +1,1 @@
+﻿positionForPages[15]={page:15,positions:[{word:"Прошлогодние  ",left:0.245687,top:0.434664,width:0.548042,height:0.070962},{word:"листья",left:0.372238,top:0.498164,width:0.257661,height:0.070962}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Багдат Малгаждар",left:0.355849,top:0.068561,width:0.288298,height:0.031562},{word:"Письмо ",left:0.362180,top:0.283029,width:0.294472,height:0.071606},{word:"БОГУ",left:0.401959,top:0.347058,width:0.196080,height:0.071606}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[37]={page:37,positions:[{word:"Уроки жизни",left:0.276898,top:0.339419,width:0.447190,height:0.070961}]};

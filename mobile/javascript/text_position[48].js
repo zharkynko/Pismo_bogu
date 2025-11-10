@@ -1,0 +1,1 @@
+﻿positionForPages[48]={page:48,positions:[{word:"Киносценарии",left:0.239903,top:0.383169,width:0.501500,height:0.070961}]};
